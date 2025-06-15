@@ -44,6 +44,4 @@ focused on building high-performance and user-friendly web applications.
 
 ---
 
-### 📊 GitHub Status
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGBagusAryaN&layout=compact&theme=radical)
