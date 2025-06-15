@@ -7,7 +7,7 @@
 
 <!-- ![Animasi](assets/animation1.gif) -->
 <p align="">
-🎓 I'm currently pursuing a Bachelor's degree in Informatics Enginering, actively working on improving my programming skills and exploring various areas of the IT industry. <br/>
+
 I'm passionate Full-Stack Developer skilled in React, TypeScript, and Node.js,
 focused on building high-performance and user-friendly web applications.
 
