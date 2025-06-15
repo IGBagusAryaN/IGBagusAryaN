@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi👋, I’m Arya </h1>
+<!-- <h1 align="center">Hi👋, I’m Arya </h1> -->
 
 <!-- ![Animasi](assets/animation1.gif) -->
 <p align="">
