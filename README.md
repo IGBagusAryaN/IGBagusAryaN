@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="banner" />
+  <img src="assets/banner1.png" alt="banner" />
 </p>
 
 
@@ -26,7 +26,7 @@ focused on building high-performance and user-friendly web applications.
 
 ---
 
-###  Connect with me 📫:
+###  Connect with me 📫
 
 <p>
   <a href="mailto:aryabagus453@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
