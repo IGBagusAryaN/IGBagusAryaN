@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/animation1.gif" alt="banner" />
+  <img src="assets/banner.gif" alt="banner" />
 </p>
 
 
@@ -14,7 +14,7 @@ focused on building high-performance and user-friendly web applications.
 
 - 💻 I’m currently learning and improving my skills in web development.
 
-- 🔧 I work mostly with Node.js, Express, React, and Prisma.
+
 
 - 🧠 Comfortable working with JavaScript, TypeScript, and databases using SQL.
 
@@ -29,10 +29,9 @@ focused on building high-performance and user-friendly web applications.
 ###  Connect with me 📫:
 
 <p>
-  <a href="mailto:thadijoshua@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/joshuathadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:aryabagus453@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/bagus-arya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31vvdulfhchm3tdcuxfbjt6regsm?si=b486190f803d40e7"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
