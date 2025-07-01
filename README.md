@@ -30,7 +30,7 @@ focused on building high-performance and user-friendly web applications.
 
 <p>
   <a href="mailto:aryabagus453@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/bagus-arya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bagus-arya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31vvdulfhchm3tdcuxfbjt6regsm?si=b486190f803d40e7"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
